@@ -47,6 +47,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -82,6 +83,7 @@
       <workItem from="1602748712360" duration="9709000" />
       <workItem from="1602840235126" duration="12362000" />
       <workItem from="1603038493443" duration="732000" />
+      <workItem from="1603095465219" duration="294000" />
     </task>
     <servers />
   </component>
